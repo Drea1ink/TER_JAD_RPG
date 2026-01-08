@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/BP_PNJ.uasset",
+				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/BP_SC_PlayerInterraction.uasset",
+				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/Interractable/BP_Interractable.uasset",
+				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/BP_FL_Shortcut.uasset"
+			]
+		}
+	]
+}
