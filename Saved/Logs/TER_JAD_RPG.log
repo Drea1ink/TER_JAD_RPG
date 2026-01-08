@@ -1719,3 +1719,58 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.08-10.48.29:863][174]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2026.01.08-10.48.29:863][174]LogShaderCompilers: Display: Material Cache Hits: 21 (15%)
 [2026.01.08-10.48.29:863][174]LogShaderCompilers: Display: ================================================
+[2026.01.08-10.49.16:624][667]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-10.49.16:624][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-10.49.16:700][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.08-10.49.18:754][853]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.08-10.49.18:754][853]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-10.49.18:754][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-10.49.18:809][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.08-10.49.31:948][219]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.08-10.49.32:047][219]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.08-10.49.56:848][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interractable/BP_Interractable.BP_Interractable
+[2026.01.08-10.49.56:849][715]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.08-10.50.11:002][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2026.01.08-10.50.11:003][131]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.01.08-10.50.57:010][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5375.881836
+[2026.01.08-10.50.58:009][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-10.50.58:009][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5376.548340, Update Interval: 302.180847
+[2026.01.08-10.51.40:784][ 23]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ
+[2026.01.08-10.51.40:785][ 23]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.01.08-10.51.44:800][272]LogSlate: Window 'BP_PNJ' being destroyed
+[2026.01.08-10.54.01:448][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.08-10.54.02:360][808]LogPSOHitching: Encountered 600 PSO creation hitches so far (154 graphics, 446 compute). 0 of them were precached.
+[2026.01.08-10.54.02:534][808]LogPSOHitching: Encountered 650 PSO creation hitches so far (160 graphics, 490 compute). 0 of them were precached.
+[2026.01.08-10.54.02:948][808]LogPSOHitching: Encountered 700 PSO creation hitches so far (164 graphics, 536 compute). 0 of them were precached.
+[2026.01.08-10.54.11:421][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FL_Shortcut.BP_FL_Shortcut
+[2026.01.08-10.54.11:421][471]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.01.08-10.55.42:549][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.08-10.55.44:418][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.08-10.55.44:423][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-10.55.44:499][237]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Interractable/BP_PNJ] ([2] browsable assets)...
+[2026.01.08-10.55.44:609][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ]
+[2026.01.08-10.55.44:609][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interractable/BP_PNJ]
+[2026.01.08-10.55.44:609][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interractable/BP_PNJ" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_PNJ.uasset" SILENT=true
+[2026.01.08-10.55.44:617][237]LogSavePackage: Moving output files for package: /Game/Blueprints/Interractable/BP_PNJ
+[2026.01.08-10.55.44:617][237]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_PNJ8E64BAB746F6427B999444AFD965DEDB.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_PNJ.uasset'
+[2026.01.08-10.55.44:618][237]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FL_Shortcut] ([2] browsable assets)...
+[2026.01.08-10.55.44:618][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FL_Shortcut]
+[2026.01.08-10.55.44:618][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FL_Shortcut" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/BP_FL_Shortcut.uasset" SILENT=true
+[2026.01.08-10.55.44:623][237]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FL_Shortcut
+[2026.01.08-10.55.44:623][237]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_FL_ShortcutD106FAEE46BF22ADBFE4A5A6C6B99665.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/BP_FL_Shortcut.uasset'
+[2026.01.08-10.55.44:632][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.477 ms (total: 1.37 sec)
+[2026.01.08-10.55.44:707][237]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.08-10.55.44:707][237]LogContentValidation: Enabled validators:
+[2026.01.08-10.55.44:707][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-10.55.44:707][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-10.55.44:707][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-10.55.44:707][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-10.55.44:707][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-10.55.44:707][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-10.55.44:708][237]AssetCheck: /Game/Blueprints/Interractable/BP_PNJ Validating asset
+[2026.01.08-10.55.44:708][237]AssetCheck: /Game/Blueprints/BP_FL_Shortcut Validating asset
+[2026.01.08-10.55.44:729][237]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-10.56.38:438][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5717.342773
+[2026.01.08-10.56.38:604][701]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-10.56.38:604][701]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5717.499512, Update Interval: 345.420685
+[2026.01.08-10.56.47:112][710]LogPSOHitching: Encountered 750 PSO creation hitches so far (176 graphics, 574 compute). 0 of them were precached.
