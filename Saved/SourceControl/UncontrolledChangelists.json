@@ -10,7 +10,6 @@
 				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/Interractable/BP_Interractable.uasset",
 				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/BP_FL_Shortcut.uasset",
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_PNJ.uasset",
-				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/BP_PNJ.uasset",
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_Interractable.uasset",
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_DA_Item.uasset",
@@ -23,6 +22,12 @@
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Textures/T_Potion_Sprite.uasset",
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Textures/T_Plant_Sprite.uasset",
 				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/BP_FL_Shortcut.uasset",
+				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_Item.uasset",
+				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/WT/FFUZUN3K0CODPJOVJZJZCZ.uasset",
+				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/E_Rarity.uasset",
+				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Spawner.uasset",
+				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_HealingItem.uasset",
+				"C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/BP_PNJ.uasset",
 				"D:/Jade_Unreal_Project/TER_JAD_RPG/Content/Blueprints/BP_SC_PlayerInterraction.uasset"
 			]
 		}
