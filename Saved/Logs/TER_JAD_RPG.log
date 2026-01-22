@@ -1173,3 +1173,995 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.22-07.00.39:255][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 6.659022
 [2026.01.22-07.00.39:256][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2026.01.22-07.00.39:256][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.659022, Update Interval: 332.341064
+[2026.01.22-07.02.29:614][483]LogDerivedDataCache: C:/Users/game/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.22-07.03.14:138][622]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.22-07.03.14:289][624]LogPSOHitching: Encountered 250 PSO creation hitches so far (70 graphics, 180 compute). 0 of them were precached.
+[2026.01.22-07.03.17:087][901]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.22-07.03.18:928][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2026.01.22-07.03.18:928][ 48]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.22-07.03.18:964][ 48]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.22-07.03.20:218][ 48]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.22-07.03.20:435][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.22-07.04.04:849][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FL_Shortcut.BP_FL_Shortcut
+[2026.01.22-07.04.04:849][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.22-07.04.04:910][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ
+[2026.01.22-07.04.04:910][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.01.22-07.04.04:994][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2026.01.22-07.04.04:994][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.01.22-07.04.05:085][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interractable/BP_Interractable.BP_Interractable
+[2026.01.22-07.04.05:085][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.01.22-07.04.05:176][311]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/BP_DA_Item.BP_DA_Item
+[2026.01.22-07.04.05:177][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.01.22-07.04.33:474][470]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.01.22-07.05.07:380][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.01.22-07.05.10:697][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.22-07.05.10:703][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.22-07.05.10:774][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Interractable/BP_PNJ] ([2] browsable assets)...
+[2026.01.22-07.05.10:844][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ]
+[2026.01.22-07.05.10:844][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interractable/BP_PNJ]
+[2026.01.22-07.05.10:844][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interractable/BP_PNJ" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_PNJ.uasset" SILENT=true
+[2026.01.22-07.05.10:864][559]LogSavePackage: Moving output files for package: /Game/Blueprints/Interractable/BP_PNJ
+[2026.01.22-07.05.10:864][559]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_PNJ0FE2C5E74F88706A73E6FB84F3996215.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Interractable/BP_PNJ.uasset'
+[2026.01.22-07.05.10:875][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.147 ms
+[2026.01.22-07.05.10:939][559]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.22-07.05.10:939][559]LogContentValidation: Enabled validators:
+[2026.01.22-07.05.10:940][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.22-07.05.10:940][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.22-07.05.10:940][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.22-07.05.10:940][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.22-07.05.10:940][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.22-07.05.10:940][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.22-07.05.10:940][559]AssetCheck: /Game/Blueprints/Interractable/BP_PNJ Validating asset
+[2026.01.22-07.05.14:952][963]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ_C
+[2026.01.22-07.05.14:952][963]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ_C
+[2026.01.22-07.05.14:959][963]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ as actor: BP_PNJ_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_PNJ_C_0
+[2026.01.22-07.05.14:964][963]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ as actor: BP_PNJ_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_PNJ_C_0
+[2026.01.22-07.05.14:978][963]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.22-07.05.16:070][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.01.22-07.05.16:072][ 76]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.01.22-07.05.16:076][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ_C
+[2026.01.22-07.05.16:076][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ_C
+[2026.01.22-07.05.16:087][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ as actor: BP_PNJ_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_PNJ_C_UAID_C01803C18F4FB2B702_2118447071
+[2026.01.22-07.05.16:093][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Interractable/BP_PNJ.BP_PNJ as actor: BP_PNJ_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_PNJ_C_UAID_C01803C18F4FB2B702_2118447071
+[2026.01.22-07.05.18:594][243]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.22-07.05.18:602][243]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.22-07.05.18:602][243]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2026.01.22-07.05.18:604][243]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 2.216 ms
+[2026.01.22-07.05.18:610][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.22-07.05.18:615][243]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.01.22-07.05.18:615][243]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.01.22-07.05.18:616][243]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.01.22-07.05.18:621][243]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.22-07.05.18:622][243]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 875 us
+[2026.01.22-07.05.18:622][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006270s)
+[2026.01.22-07.05.18:622][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.006410s)
+[2026.01.22-07.05.18:650][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.22-07.05.18:654][243]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2026.01.22-07.05.18:655][243]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.22-07.05.18:655][243]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.22-07.05.18:655][243]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.22-07.05.18:656][243]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.22-07.05.18:657][243]LogWorldPartition: Display: WorldPartition initialize took 1.949 ms (total: 140.740 ms)
+[2026.01.22-07.05.18:657][243]LogPlayLevel: PIE: World Init took: (0.003922s)
+[2026.01.22-07.05.18:658][243]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.01.22-07.05.18:658][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.22-07.05.18:659][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.22-07.05.18:659][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.22-07.05.18:659][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.22-07.05.18:659][243]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.22-07.05.18:659][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.22-07.05.18:659][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.22-07.05.18:659][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.22-07.05.18:659][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.22-07.05.18:659][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.22-07.05.18:659][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.22-07.05.18:660][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.22-07.05.18:688][243]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2026.01.22-07.05.18:689][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.22-07.05.18:689][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.22-07.05.18:689][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.22-07.05.18:689][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.01.22-07.05.18:689][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.01.22-07.05.18:691][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.01.22-07.05.18:691][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.01.22-07.05.18:691][243]LogInit: FAudioDevice initialized with ID 2.
+[2026.01.22-07.05.18:691][243]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_TopDown'.
+[2026.01.22-07.05.18:692][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.22-07.05.18:697][243]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2026.01.22-07.05.18:702][243]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2026.01.22-08.05.18
+[2026.01.22-07.05.18:703][243]LogWorld: Bringing up level for play took: 0.004738
+[2026.01.22-07.05.18:705][243]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.01.22-07.05.18:727][243]PIE: Server logged in
+[2026.01.22-07.05.18:729][243]PIE: Play in editor total start time 0,128 seconds.
+[2026.01.22-07.05.18:734][243]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:796][243]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.22-07.05.18:852][244]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:870][245]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:879][246]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:887][247]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:897][248]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:907][249]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:916][250]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:925][251]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:935][252]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:945][253]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:954][254]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:964][255]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:972][256]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:982][257]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.18:991][258]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:001][259]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:010][260]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:020][261]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:029][262]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:039][263]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:050][264]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:059][265]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:069][266]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:079][267]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:089][268]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:098][269]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:108][270]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:117][271]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:125][272]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:134][273]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:143][274]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:152][275]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:161][276]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:170][277]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:179][278]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:188][279]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:197][280]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:205][281]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:214][282]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:223][283]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:232][284]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:241][285]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:250][286]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:259][287]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:268][288]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:277][289]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:286][290]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:295][291]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:304][292]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:312][293]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:321][294]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:331][295]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:339][296]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:349][297]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:357][298]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:367][299]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:375][300]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:385][301]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:395][302]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:403][303]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:412][304]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:421][305]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:430][306]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:439][307]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:448][308]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:457][309]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:466][310]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:475][311]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:484][312]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:493][313]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:502][314]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:510][315]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:519][316]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:527][317]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:540][318]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:551][319]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:560][320]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:568][321]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:578][322]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:586][323]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:595][324]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:604][325]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:614][326]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:623][327]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:632][328]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:657][329]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:666][330]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:675][331]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:684][332]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:693][333]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:702][334]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:711][335]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:720][336]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:729][337]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:738][338]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:747][339]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:756][340]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:765][341]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:774][342]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:783][343]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:791][344]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:801][345]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:810][346]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:819][347]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:829][348]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:838][349]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:847][350]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:856][351]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:864][352]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:873][353]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:882][354]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:891][355]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:900][356]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:909][357]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:918][358]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:926][359]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:935][360]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:944][361]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:953][362]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:962][363]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:970][364]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:979][365]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:988][366]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.19:997][367]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:005][368]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:014][369]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:023][370]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:032][371]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:041][372]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:049][373]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:058][374]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:067][375]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:076][376]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:085][377]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:094][378]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:103][379]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:112][380]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:121][381]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:130][382]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:138][383]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:147][384]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:157][385]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:165][386]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:174][387]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:183][388]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:191][389]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:200][390]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:209][391]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:218][392]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:226][393]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:235][394]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:244][395]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:253][396]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:262][397]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:271][398]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:281][399]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:289][400]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:298][401]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:307][402]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:316][403]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:324][404]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:333][405]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:342][406]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:350][407]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:359][408]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:368][409]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:377][410]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:385][411]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:394][412]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:403][413]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:412][414]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:421][415]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:429][416]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:438][417]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:448][418]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:457][419]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:465][420]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:474][421]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:483][422]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:491][423]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:500][424]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:509][425]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:518][426]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:526][427]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:535][428]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:543][429]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:552][430]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:561][431]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:570][432]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:578][433]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:586][434]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:595][435]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:604][436]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:613][437]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:622][438]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:631][439]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:640][440]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:649][441]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:658][442]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:667][443]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:676][444]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:685][445]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:693][446]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:702][447]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:711][448]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:720][449]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:728][450]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:737][451]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:746][452]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:755][453]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:764][454]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:774][455]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:783][456]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:792][457]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:801][458]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:810][459]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:819][460]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:828][461]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:836][462]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:845][463]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:854][464]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:863][465]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:872][466]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:881][467]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:889][468]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:898][469]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:907][470]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:916][471]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:925][472]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:934][473]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:944][474]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:955][475]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:964][476]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:974][477]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:983][478]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.20:992][479]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:001][480]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:010][481]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:019][482]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:028][483]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:037][484]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:046][485]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:055][486]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:064][487]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:073][488]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:082][489]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:091][490]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:100][491]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:109][492]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:118][493]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:127][494]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:137][495]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:146][496]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:155][497]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:164][498]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:173][499]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:181][500]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:190][501]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:199][502]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:208][503]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:217][504]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:226][505]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:235][506]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:244][507]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:253][508]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:262][509]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:271][510]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:280][511]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:288][512]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:297][513]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:306][514]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:315][515]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:324][516]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:333][517]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:342][518]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:351][519]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:359][520]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:369][521]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:377][522]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:386][523]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:395][524]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:405][525]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:413][526]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:423][527]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:432][528]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:441][529]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:450][530]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:459][531]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:468][532]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:476][533]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:486][534]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:494][535]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:503][536]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:512][537]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:521][538]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:529][539]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:538][540]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:547][541]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:556][542]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:565][543]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:574][544]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:583][545]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:592][546]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:601][547]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:609][548]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:618][549]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:627][550]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:636][551]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:644][552]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:654][553]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:663][554]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:671][555]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:679][556]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:688][557]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:697][558]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:706][559]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:715][560]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:723][561]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:732][562]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:741][563]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:750][564]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:759][565]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:768][566]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:777][567]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:787][568]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:795][569]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:804][570]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:813][571]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:822][572]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:831][573]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:839][574]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:848][575]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:857][576]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:866][577]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:875][578]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:884][579]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:893][580]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:902][581]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:911][582]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:920][583]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:929][584]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:938][585]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:947][586]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:956][587]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:964][588]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:974][589]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:983][590]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.21:990][591]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:000][592]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:008][593]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:018][594]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:026][595]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:036][596]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:045][597]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:054][598]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:063][599]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:071][600]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:080][601]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:089][602]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:098][603]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:107][604]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:116][605]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:124][606]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:134][607]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:143][608]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:152][609]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:161][610]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:171][611]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:179][612]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:187][613]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:196][614]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:204][615]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:213][616]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:222][617]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:231][618]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:239][619]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:248][620]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:256][621]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:265][622]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:273][623]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:282][624]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:291][625]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:300][626]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:309][627]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:318][628]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:326][629]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:335][630]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:344][631]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:351][632]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:360][633]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:369][634]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:377][635]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:386][636]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:394][637]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:404][638]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:413][639]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:421][640]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:430][641]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:439][642]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:448][643]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:456][644]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:466][645]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:473][646]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:482][647]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:491][648]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:500][649]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:509][650]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:518][651]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:527][652]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:536][653]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:545][654]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:553][655]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:563][656]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:571][657]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:581][658]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:590][659]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:598][660]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:607][661]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:616][662]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:625][663]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:634][664]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:643][665]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:651][666]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:660][667]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:669][668]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:678][669]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:687][670]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:695][671]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:704][672]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:713][673]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:722][674]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:730][675]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:740][676]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:748][677]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:757][678]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:766][679]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:775][680]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:784][681]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:793][682]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:802][683]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:810][684]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:818][685]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:827][686]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:835][687]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:844][688]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:852][689]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:861][690]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:870][691]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:879][692]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:887][693]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:896][694]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:904][695]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:913][696]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:922][697]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:931][698]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:940][699]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:948][700]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:957][701]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:964][702]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:973][703]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:981][704]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:991][705]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.22:999][706]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:008][707]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:017][708]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:025][709]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:034][710]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:043][711]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:052][712]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:060][713]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:069][714]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:078][715]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:087][716]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:095][717]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:104][718]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:112][719]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:121][720]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:129][721]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:138][722]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:146][723]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:154][724]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:163][725]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:172][726]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:181][727]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:189][728]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:198][729]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:207][730]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:217][731]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:227][732]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:236][733]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:245][734]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:254][735]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:262][736]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:271][737]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:280][738]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:288][739]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:297][740]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:306][741]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:314][742]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:323][743]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:331][744]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:339][745]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:348][746]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:357][747]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:365][748]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:374][749]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:382][750]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:390][751]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:398][752]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:407][753]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:415][754]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:424][755]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:433][756]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:442][757]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:450][758]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:459][759]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:468][760]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:476][761]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:485][762]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:494][763]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:502][764]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:511][765]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:519][766]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:528][767]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:537][768]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:545][769]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:554][770]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:562][771]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:571][772]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:579][773]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:588][774]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:596][775]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:605][776]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:614][777]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:622][778]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:630][779]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:639][780]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:647][781]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:656][782]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:664][783]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:673][784]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:682][785]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:691][786]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:699][787]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:708][788]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:717][789]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:725][790]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:734][791]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:742][792]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:752][793]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:761][794]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:771][795]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:781][796]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:790][797]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:798][798]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:807][799]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:815][800]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:825][801]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:834][802]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:842][803]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:851][804]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:859][805]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:868][806]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:876][807]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:885][808]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:893][809]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:902][810]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:911][811]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:919][812]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:929][813]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:937][814]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:946][815]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:954][816]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:962][817]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:970][818]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:979][819]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:987][820]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.23:996][821]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:005][822]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:013][823]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:022][824]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:030][825]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:039][826]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:048][827]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:056][828]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:065][829]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:073][830]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:083][831]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:091][832]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:100][833]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:108][834]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:117][835]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:125][836]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:135][837]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:143][838]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:152][839]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:160][840]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:169][841]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:177][842]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:185][843]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:194][844]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:203][845]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:211][846]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:220][847]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:229][848]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:237][849]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:246][850]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:255][851]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:263][852]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:272][853]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:280][854]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:289][855]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:298][856]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:306][857]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:315][858]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:324][859]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:333][860]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:341][861]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:350][862]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:358][863]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:368][864]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:376][865]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:385][866]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:393][867]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:402][868]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:410][869]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:418][870]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:426][871]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:435][872]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:444][873]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:452][874]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:461][875]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:470][876]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:479][877]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:487][878]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:497][879]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:506][880]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:515][881]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:523][882]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:532][883]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:541][884]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:550][885]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:558][886]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:567][887]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:576][888]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:585][889]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:593][890]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:602][891]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:611][892]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:620][893]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:629][894]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:638][895]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:647][896]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:656][897]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:665][898]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:674][899]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:683][900]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:692][901]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:701][902]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:711][903]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:721][904]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:730][905]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:740][906]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:749][907]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:758][908]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:767][909]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:776][910]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:785][911]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:794][912]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:803][913]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:812][914]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:821][915]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:830][916]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:839][917]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:847][918]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:856][919]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:865][920]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:874][921]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:883][922]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:892][923]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:902][924]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:910][925]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:919][926]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:928][927]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:937][928]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:946][929]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:955][930]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:964][931]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:972][932]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:981][933]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:990][934]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.24:999][935]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:008][936]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:016][937]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:025][938]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:034][939]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:043][940]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:052][941]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:061][942]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:070][943]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:079][944]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:088][945]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:096][946]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:105][947]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:114][948]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:123][949]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:130][950]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:139][951]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:148][952]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:157][953]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:165][954]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:174][955]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:182][956]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:191][957]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:200][958]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:208][959]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:217][960]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:226][961]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:235][962]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:243][963]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:252][964]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:261][965]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:269][966]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:279][967]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:288][968]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:296][969]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:305][970]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:314][971]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:322][972]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:331][973]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:340][974]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:348][975]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:357][976]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:365][977]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:374][978]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:382][979]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:391][980]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:400][981]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:408][982]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:416][983]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:425][984]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:433][985]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:442][986]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:451][987]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:459][988]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:468][989]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:477][990]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:486][991]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:494][992]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:503][993]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:511][994]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:520][995]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:529][996]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:538][997]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:546][998]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:555][999]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:565][  0]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2026.01.22-07.05.25:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.22-07.05.25:608][  0]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2026.01.22-07.05.25:609][  0]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.05.25:610][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.05.25:610][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2026.01.22-07.05.25:612][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.22-07.05.25:616][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.05.25:644][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.22-07.05.25:644][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.22-07.05.25:645][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.01.22-07.05.25:646][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.01.22-07.05.25:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.22-07.05.25:654][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.22-07.05.25:700][  1]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.01.22-07.06.11:913][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 339.367493
+[2026.01.22-07.06.12:914][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.22-07.06.12:914][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 340.035645, Update Interval: 305.176544
+[2026.01.22-07.06.37:371][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.01.22-07.06.37:376][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.22-07.06.37:459][354]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/1/BB/I918ORWMDFOVG8UACFYGAA
+[2026.01.22-07.06.37:459][354]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/I918ORWMDFOVG8UACFYGAA1AAD879E4A980223036475907564D92E.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/BB/I918ORWMDFOVG8UACFYGAA.uasset'
+[2026.01.22-07.06.37:469][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.736 ms (total: 264.883 ms)
+[2026.01.22-07.06.37:553][354]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.22-07.06.37:553][354]LogContentValidation: Enabled validators:
+[2026.01.22-07.06.37:553][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.22-07.06.37:553][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.22-07.06.37:553][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.22-07.06.37:553][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.22-07.06.37:553][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.22-07.06.37:553][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.22-07.06.37:554][354]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2026.01.22-07.06.37:580][354]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.22-07.08.12:662][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.22-07.08.12:706][307]LogStall: Shutdown...
+[2026.01.22-07.08.12:706][307]LogStall: Shutdown complete.
+[2026.01.22-07.08.12:732][307]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.12:732][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.12:776][307]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.12:776][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.12:806][307]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.22-07.08.12:806][307]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.12:806][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.12:846][307]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.22-07.08.12:846][307]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.12:846][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.12:878][307]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.22-07.08.12:878][307]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.12:878][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.12:907][307]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.12:907][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.12:949][307]LogSlate: Window 'TER_JAD_RPG - Unreal Editor' being destroyed
+[2026.01.22-07.08.13:060][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.22-07.08.13:070][307]Cmd: QUIT_EDITOR
+[2026.01.22-07.08.13:070][308]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.22-07.08.13:076][308]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.22-07.08.13:076][308]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.22-07.08.13:076][308]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.22-07.08.13:077][308]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.13:077][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.13:077][308]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Lvl_TopDown.Lvl_TopDown
+[2026.01.22-07.08.13:089][308]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.22-07.08.13:089][308]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.22-07.08.13:089][308]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.22-07.08.13:091][308]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.13:091][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.13:093][308]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.13:093][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.13:095][308]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.13:095][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.13:098][308]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-07.08.13:098][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-07.08.13:100][308]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.22-07.08.13:100][308]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.22-07.08.13:104][308]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.22-07.08.13:233][308]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.22-07.08.13:233][308]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.22-07.08.13:233][308]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2026.01.22-07.08.13:233][308]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.22-07.08.13:233][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.22-07.08.13:235][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.22-07.08.13:251][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.22-07.08.13:252][308]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.22-07.08.13:252][308]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.01.22-07.08.13:254][308]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.22-07.08.13:255][308]LogExit: Preparing to exit.
+[2026.01.22-07.08.13:284][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.13:286][308]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-07.08.14:498][308]LogEditorDataStorage: Deinitializing
+[2026.01.22-07.08.14:647][308]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.22-07.08.14:656][308]LogExit: Editor shut down
+[2026.01.22-07.08.14:658][308]LogExit: Transaction tracking system shut down
+[2026.01.22-07.08.14:755][308]LogExit: Object subsystem successfully closed.
+[2026.01.22-07.08.14:867][308]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.22-07.08.14:907][308]LogMemoryProfiler: Shutdown
+[2026.01.22-07.08.14:907][308]LogNetworkingProfiler: Shutdown
+[2026.01.22-07.08.14:907][308]LoadingProfiler: Shutdown
+[2026.01.22-07.08.14:907][308]LogTimingProfiler: Shutdown
+[2026.01.22-07.08.14:907][308]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.22-07.08.14:907][308]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.22-07.08.15:161][308]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.22-07.08.15:171][308]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.22-07.08.15:171][308]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7F5522B8-418A-40F5-F75F-97B55EF1F261%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=987457f84d7f20f10d71eba4e2b4801e%7C7de091a22b5e451ba801e10f93cfa599%7C8dfd3b2b-ef3c-4510-ab12-67a5b92aedf4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.22-07.08.15:717][308]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.22-07.08.15:717][308]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.22-07.08.15:717][308]RenderDocPlugin: plugin has been unloaded.
+[2026.01.22-07.08.15:727][308]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.22-07.08.15:727][308]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.22-07.08.15:727][308]LogPakFile: Destroying PakPlatformFile
+[2026.01.22-07.08.15:988][308]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.22-07.08.16:014][308]LogExit: Exiting.
+[2026.01.22-07.08.16:033][308]Log file closed, 01/22/26 08:08:16
