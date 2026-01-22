@@ -33196,3 +33196,247 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.22-10.55.45:917][ 84]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.43:53297, Sequence=0
 [2026.01.22-10.55.45:917][ 84]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.43:53297, Sequence=0
 [2026.01.22-10.55.45:920][ 84]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.43:53297, Sequence=0
+[2026.01.22-10.56.12:938][165]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.12:938][165]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.13:385][166]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.13:385][166]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.17:938][180]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.17:938][180]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.19:269][184]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.19:269][184]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.20:268][187]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.20:268][187]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.20:607][188]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.20:607][188]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.50:63808, Sequence=0
+[2026.01.22-10.56.37:058][345]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:058][345]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:058][345]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:058][345]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:278][368]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:278][368]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:278][368]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.37:278][368]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.61:58169, Sequence=0
+[2026.01.22-10.56.44:310][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13386.164062
+[2026.01.22-10.56.44:473][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.22-10.56.44:473][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13386.312500, Update Interval: 359.950562
+[2026.01.22-10.56.57:946][849]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.22-10.56.57:960][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/BP_DA_I_Spawner.BP_DA_I_Spawner
+[2026.01.22-10.56.57:962][849]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.22-10.57.12:907][944]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-10.57.12:908][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-10.57.12:933][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/BP_DA_I_Spawner.BP_DA_I_Spawner
+[2026.01.22-10.57.12:933][944]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.22-10.57.13:409][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.22-10.57.38:534][871]LogEditorTransaction: Undo Add New Function
+[2026.01.22-10.57.43:381][382]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.55:52773, Sequence=0
+[2026.01.22-10.57.43:381][382]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.55:52773, Sequence=0
+[2026.01.22-10.59.03:819][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.01.22-10.59.05:001][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.01.22-10.59.05:007][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.22-10.59.05:429][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Data/BP_DA_I_Spawner] ([2] browsable assets)...
+[2026.01.22-10.59.05:429][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Data/BP_DA_I_Spawner]
+[2026.01.22-10.59.05:429][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/BP_DA_I_Spawner" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Spawner.uasset" SILENT=true
+[2026.01.22-10.59.05:441][302]LogSavePackage: Moving output files for package: /Game/Blueprints/Data/BP_DA_I_Spawner
+[2026.01.22-10.59.05:441][302]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_DA_I_Spawner8F9EDFBD4B93F3C293C99FB53C3F8898.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Spawner.uasset'
+[2026.01.22-10.59.05:457][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 449.735 ms (total: 2.57 sec)
+[2026.01.22-10.59.05:553][302]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.22-10.59.05:553][302]LogContentValidation: Enabled validators:
+[2026.01.22-10.59.05:553][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.22-10.59.05:553][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.22-10.59.05:553][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.22-10.59.05:553][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.22-10.59.05:553][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.22-10.59.05:553][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.22-10.59.05:553][302]AssetCheck: /Game/Blueprints/Data/BP_DA_I_Spawner Validating asset
+[2026.01.22-10.59.41:405][880]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.43:53297, Sequence=0
+[2026.01.22-11.01.02:838][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.01.22-11.01.56:634][712]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.22-11.01.56:645][712]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.22-11.01.56:658][712]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.22-11.01.56:681][713]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.22-11.01.59:742][892]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP
+[2026.01.22-11.01.59:783][892]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.22-11.01.59:832][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.01.22-11.01.59:837][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.037
+[2026.01.22-11.01.59:837][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Data/BP_DA_I_Spawner] ([2] browsable assets)...
+[2026.01.22-11.01.59:838][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Data/BP_DA_I_Spawner]
+[2026.01.22-11.01.59:844][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Data/BP_DA_I_Spawner_Auto9
+[2026.01.22-11.01.59:844][892]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_DA_I_Spawner_Auto92E636F1C48D8C9BC0BD5BDB6356B1C26.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/Autosaves/Game/Blueprints/Data/BP_DA_I_Spawner_Auto9.uasset'
+[2026.01.22-11.01.59:844][892]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.01.22-11.02.04:805][177]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.22-11.02.10:195][470]LogContentBrowser: Attempting asset rename: BP -> BP_Test
+[2026.01.22-11.02.10:619][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.22-11.02.10:619][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Data/BP_Test] ([2] browsable assets)...
+[2026.01.22-11.02.10:619][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Data/BP_Test]
+[2026.01.22-11.02.10:619][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/BP_Test" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_Test.uasset" SILENT=true
+[2026.01.22-11.02.10:624][470]LogSavePackage: Moving output files for package: /Game/Blueprints/Data/BP_Test
+[2026.01.22-11.02.10:624][470]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_Test1A5EFB5A4F1152E1C07BE0967714FB76.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_Test.uasset'
+[2026.01.22-11.02.10:633][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.186 ms (total: 2.58 sec)
+[2026.01.22-11.02.10:677][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.22-11.02.10:710][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.01.22-11.02.10:741][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.22-11.02.10:828][470]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.22-11.02.10:828][470]LogContentValidation: Enabled validators:
+[2026.01.22-11.02.10:828][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.22-11.02.10:828][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.22-11.02.10:828][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.22-11.02.10:828][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.22-11.02.10:828][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.22-11.02.10:828][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.22-11.02.10:828][470]AssetCheck: /Game/Blueprints/Data/BP_Test Validating asset
+[2026.01.22-11.02.10:887][470]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.22-11.02.14:855][682]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/BP_Test.BP_Test
+[2026.01.22-11.02.14:855][682]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.22-11.02.42:286][781]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.02.42:287][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.02.42:358][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.01.22-11.02.46:907][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.22-11.02.47:117][ 72]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.22-11.02.47:129][ 72]LogSlate: Took 0.008610 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.22-11.02.48:046][ 72]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.22-11.02.48:101][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.22-11.02.48:134][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.01.22-11.02.48:166][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.22-11.03.42:276][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13804.231445
+[2026.01.22-11.03.42:426][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.22-11.03.42:426][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13804.374023, Update Interval: 338.270203
+[2026.01.22-11.04.21:466][641]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.01.22-11.04.21:474][641]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.01.22-11.04.21:486][641]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.01.22-11.04.21:504][642]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.01.22-11.04.28:176][ 92]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DA_I_Test
+[2026.01.22-11.04.28:183][ 92]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.01.22-11.04.30:018][200]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Data/BP_DA_I_Test.BP_DA_I_Test
+[2026.01.22-11.04.30:018][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.22-11.04.40:830][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.22-11.04.42:088][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.22-11.04.42:094][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.22-11.04.42:177][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Data/BP_DA_I_Spawner] ([2] browsable assets)...
+[2026.01.22-11.04.42:177][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Data/BP_DA_I_Spawner]
+[2026.01.22-11.04.42:177][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/BP_DA_I_Spawner" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Spawner.uasset" SILENT=true
+[2026.01.22-11.04.42:183][503]LogSavePackage: Moving output files for package: /Game/Blueprints/Data/BP_DA_I_Spawner
+[2026.01.22-11.04.42:183][503]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_DA_I_SpawnerDC8B7FCD4E6D76FC23274E8EFA0C4A8F.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Spawner.uasset'
+[2026.01.22-11.04.42:184][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Data/BP_DA_I_Test] ([2] browsable assets)...
+[2026.01.22-11.04.42:184][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Data/BP_DA_I_Test]
+[2026.01.22-11.04.42:184][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Data/BP_DA_I_Test" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Test.uasset" SILENT=true
+[2026.01.22-11.04.42:189][503]LogSavePackage: Moving output files for package: /Game/Blueprints/Data/BP_DA_I_Test
+[2026.01.22-11.04.42:190][503]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_DA_I_Test48380A0C45DCF029BB62B98164319B1E.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Blueprints/Data/BP_DA_I_Test.uasset'
+[2026.01.22-11.04.42:202][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.430 ms (total: 2.69 sec)
+[2026.01.22-11.04.42:274][503]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.22-11.04.42:274][503]LogContentValidation: Enabled validators:
+[2026.01.22-11.04.42:274][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.22-11.04.42:274][503]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.22-11.04.42:274][503]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.22-11.04.42:274][503]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.22-11.04.42:274][503]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.22-11.04.42:274][503]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.22-11.04.42:275][503]AssetCheck: /Game/Blueprints/Data/BP_DA_I_Spawner Validating asset
+[2026.01.22-11.04.42:275][503]AssetCheck: /Game/Blueprints/Data/BP_DA_I_Test Validating asset
+[2026.01.22-11.04.42:296][503]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.22-11.04.44:533][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.22-11.04.44:589][764]LogStall: Shutdown...
+[2026.01.22-11.04.44:589][764]LogStall: Shutdown complete.
+[2026.01.22-11.04.44:615][764]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.44:616][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.44:677][764]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.44:677][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.44:794][764]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.22-11.04.44:794][764]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.44:794][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:043][764]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.22-11.04.45:043][764]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.45:043][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:171][764]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.22-11.04.45:171][764]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.45:171][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:291][764]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.45:291][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:421][764]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.45:421][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:432][764]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.45:432][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:505][764]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.45:505][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.45:560][764]LogSlate: Window 'TER_JAD_RPG - Unreal Editor' being destroyed
+[2026.01.22-11.04.46:193][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.22-11.04.46:221][764]Cmd: QUIT_EDITOR
+[2026.01.22-11.04.46:222][764]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.22-11.04.46:232][765]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.22-11.04.46:234][765]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.22-11.04.46:234][765]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.22-11.04.46:244][765]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.46:245][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.46:245][765]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Lvl_TopDown.Lvl_TopDown
+[2026.01.22-11.04.46:291][765]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.22-11.04.46:295][765]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.22-11.04.46:304][765]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.22-11.04.46:321][765]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.46:321][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.46:325][765]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.46:325][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.46:328][765]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.46:329][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.46:335][765]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.46:335][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.46:338][765]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-11.04.46:338][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-11.04.46:350][765]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.22-11.04.46:351][765]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.22-11.04.46:360][765]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.22-11.04.46:687][765]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.22-11.04.46:687][765]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.22-11.04.46:687][765]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2026.01.22-11.04.46:687][765]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.22-11.04.46:688][765]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.22-11.04.46:695][765]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.22-11.04.46:732][765]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.22-11.04.46:732][765]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.22-11.04.46:736][765]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.01.22-11.04.46:741][765]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.22-11.04.46:743][765]LogExit: Preparing to exit.
+[2026.01.22-11.04.46:812][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.22-11.04.46:818][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:819][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:822][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.46:823][765]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.22-11.04.48:042][765]LogEditorDataStorage: Deinitializing
+[2026.01.22-11.04.48:420][765]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.22-11.04.48:646][765]LogExit: Editor shut down
+[2026.01.22-11.04.48:674][765]LogExit: Transaction tracking system shut down
+[2026.01.22-11.04.49:792][765]LogExit: Object subsystem successfully closed.
+[2026.01.22-11.04.49:900][765]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.22-11.04.52:244][765]LogMemoryProfiler: Shutdown
+[2026.01.22-11.04.52:245][765]LogNetworkingProfiler: Shutdown
+[2026.01.22-11.04.52:245][765]LoadingProfiler: Shutdown
+[2026.01.22-11.04.52:245][765]LogTimingProfiler: Shutdown
+[2026.01.22-11.04.52:253][765]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.22-11.04.52:254][765]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.22-11.04.53:284][765]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.22-11.04.53:296][765]RenderDocPlugin: plugin has been unloaded.
+[2026.01.22-11.04.53:310][765]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.22-11.04.53:310][765]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4DAC78F0-4073-CA1D-BDD5-B6944A7E7DAD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=987457f84d7f20f10d71eba4e2b4801e%7C7de091a22b5e451ba801e10f93cfa599%7C8dfd3b2b-ef3c-4510-ab12-67a5b92aedf4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.22-11.04.53:855][765]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.22-11.04.53:856][765]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.22-11.04.53:885][765]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.22-11.04.53:885][765]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.22-11.04.53:886][765]LogPakFile: Destroying PakPlatformFile
+[2026.01.22-11.04.54:902][765]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.22-11.04.54:970][765]LogExit: Exiting.
+[2026.01.22-11.04.55:044][765]Log file closed, 01/22/26 12:04:55
