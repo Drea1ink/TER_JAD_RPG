@@ -2241,3 +2241,557 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.29-10.48.55:635][105]AssetCheck: /Game/AI/BT_MainBehavior Validating asset
 [2026.01.29-10.48.55:635][105]AssetCheck: /Game/AI/BB_MainBehaviorBlackBoard Validating asset
 [2026.01.29-10.48.55:663][105]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-10.51.28:668][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:668][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.28:669][ 69]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.39:429][102]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.39:429][102]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.40:726][106]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.40:726][106]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.40:726][106]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.51.40:726][106]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.48:51874, Sequence=0
+[2026.01.29-10.52.26:774][525]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.74:49822, Sequence=0
+[2026.01.29-10.53.42:816][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12800.183594
+[2026.01.29-10.53.42:974][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-10.53.42:974][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12800.331055, Update Interval: 313.389069
+[2026.01.29-10.56.17:376][308]LogEditCondition: Error: BTDecorator_IsAtLocation - EditCondition attempted to use an invalid operand "bPathFindingBasedTest".
+[2026.01.29-10.56.24:580][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.29-10.56.24:587][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-10.56.24:683][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_MainBehavior] ([1] browsable assets)...
+[2026.01.29-10.56.24:683][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_MainBehavior]
+[2026.01.29-10.56.24:683][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_MainBehavior" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BT_MainBehavior.uasset" SILENT=true
+[2026.01.29-10.56.24:690][101]LogSavePackage: Moving output files for package: /Game/AI/BT_MainBehavior
+[2026.01.29-10.56.24:690][101]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BT_MainBehavior49D76E51433F74E29D9AB3A13EC37D7E.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BT_MainBehavior.uasset'
+[2026.01.29-10.56.24:691][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BB_MainBehaviorBlackBoard] ([1] browsable assets)...
+[2026.01.29-10.56.24:691][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_MainBehaviorBlackBoard]
+[2026.01.29-10.56.24:691][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_MainBehaviorBlackBoard" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BB_MainBehaviorBlackBoard.uasset" SILENT=true
+[2026.01.29-10.56.24:694][101]LogSavePackage: Moving output files for package: /Game/AI/BB_MainBehaviorBlackBoard
+[2026.01.29-10.56.24:695][101]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BB_MainBehaviorBlackBoard4B6748F744AE9D7D6DE407A8D883045B.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BB_MainBehaviorBlackBoard.uasset'
+[2026.01.29-10.56.24:703][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.681 ms (total: 2.40 sec)
+[2026.01.29-10.56.24:784][101]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.29-10.56.24:784][101]LogContentValidation: Enabled validators:
+[2026.01.29-10.56.24:784][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-10.56.24:784][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-10.56.24:784][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-10.56.24:784][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-10.56.24:784][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-10.56.24:784][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-10.56.24:784][101]AssetCheck: /Game/AI/BT_MainBehavior Validating asset
+[2026.01.29-10.56.24:784][101]AssetCheck: /Game/AI/BB_MainBehaviorBlackBoard Validating asset
+[2026.01.29-10.56.56:244][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.29-10.56.56:251][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-10.56.56:327][875]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BB_MainBehaviorBlackBoard] ([1] browsable assets)...
+[2026.01.29-10.56.56:327][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BB_MainBehaviorBlackBoard]
+[2026.01.29-10.56.56:327][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BB_MainBehaviorBlackBoard" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BB_MainBehaviorBlackBoard.uasset" SILENT=true
+[2026.01.29-10.56.56:331][875]LogSavePackage: Moving output files for package: /Game/AI/BB_MainBehaviorBlackBoard
+[2026.01.29-10.56.56:331][875]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BB_MainBehaviorBlackBoard14CB2E5D42E77F7CB51D3C8A72B38AAD.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BB_MainBehaviorBlackBoard.uasset'
+[2026.01.29-10.56.56:341][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.983 ms (total: 2.49 sec)
+[2026.01.29-10.56.56:429][875]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-10.56.56:429][875]LogContentValidation: Enabled validators:
+[2026.01.29-10.56.56:429][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-10.56.56:429][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-10.56.56:429][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-10.56.56:429][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-10.56.56:430][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-10.56.56:430][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-10.56.56:430][875]AssetCheck: /Game/AI/BB_MainBehaviorBlackBoard Validating asset
+[2026.01.29-10.57.06:713][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.29-10.57.06:719][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-10.57.06:813][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_MainBehavior] ([1] browsable assets)...
+[2026.01.29-10.57.06:813][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_MainBehavior]
+[2026.01.29-10.57.06:813][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_MainBehavior" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BT_MainBehavior.uasset" SILENT=true
+[2026.01.29-10.57.06:818][ 17]LogSavePackage: Moving output files for package: /Game/AI/BT_MainBehavior
+[2026.01.29-10.57.06:818][ 17]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BT_MainBehaviorF692FB6E404D30D4BED95A8EED6A0F6D.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BT_MainBehavior.uasset'
+[2026.01.29-10.57.06:827][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.972 ms (total: 2.59 sec)
+[2026.01.29-10.57.06:912][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-10.57.06:912][ 17]LogContentValidation: Enabled validators:
+[2026.01.29-10.57.06:913][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-10.57.06:913][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-10.57.06:913][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-10.57.06:913][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-10.57.06:913][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-10.57.06:913][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-10.57.06:913][ 17]AssetCheck: /Game/AI/BT_MainBehavior Validating asset
+[2026.01.29-10.58.02:229][660]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.29-10.58.02:329][660]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.29-10.58.02:330][660]LogPSOHitching: Encountered 800 PSO creation hitches so far (252 graphics, 548 compute). 0 of them were precached.
+[2026.01.29-10.58.29:752][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.01.29-10.58.29:756][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.031
+[2026.01.29-10.58.29:757][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_MainBehavior] ([1] browsable assets)...
+[2026.01.29-10.58.29:757][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_MainBehavior]
+[2026.01.29-10.58.29:757][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_MainBehavior" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/Autosaves/Game/AI/BT_MainBehavior_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2026.01.29-10.58.29:762][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BT_MainBehavior_Auto9
+[2026.01.29-10.58.29:762][ 16]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BT_MainBehavior_Auto9E73C05E3416E73F675002E960885C321.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/Autosaves/Game/AI/BT_MainBehavior_Auto9.uasset'
+[2026.01.29-10.58.29:762][ 16]LogFileHelpers: Auto-saving content packages took 0.006
+[2026.01.29-10.59.35:340][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13152.768555
+[2026.01.29-10.59.36:340][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.29-10.59.36:340][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13153.440430, Update Interval: 347.942139
+[2026.01.29-10.59.42:603][270]LogContentBrowser: Deferred new asset file creation: BP_TopDownCharacter1
+[2026.01.29-10.59.42:668][270]LogContentBrowser: Creating deferred item: BP_TopDownCharacter1
+[2026.01.29-10.59.42:684][271]LogContentBrowser: Renaming the item being created (Deferred Item: BP_TopDownCharacter1).
+[2026.01.29-10.59.56:005][434]LogContentBrowser: Attempting asset rename: BP_TopDownCharacter1 -> BP_TopDownCharacter1Enemy
+[2026.01.29-10.59.56:065][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.29-10.59.56:083][434]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/TopDown/Blueprints/BP_TopDownCharacter1Enemy.
+[2026.01.29-10.59.56:090][434]LogContentBrowser: End creating deferred item BP_TopDownCharacter1
+[2026.01.29-10.59.56:092][434]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.01.29-11.00.06:361][162]LogContentBrowser: Attempting asset rename: BP_TopDownCharacter1Enemy -> BP_TopDownCharacterEnemy
+[2026.01.29-11.00.06:656][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-11.00.06:656][162]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacterEnemy] ([2] browsable assets)...
+[2026.01.29-11.00.06:656][162]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.01.29-11.00.06:676][162]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy_C]
+[2026.01.29-11.00.06:677][162]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.01.29-11.00.06:694][162]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy]
+[2026.01.29-11.00.06:694][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacterEnemy]
+[2026.01.29-11.00.06:705][162]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy
+[2026.01.29-11.00.06:705][162]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_TopDownCharacterEnemy4439FAA24E17D57F66DCF8801F88EB66.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/TopDown/Blueprints/BP_TopDownCharacterEnemy.uasset'
+[2026.01.29-11.00.06:710][162]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.
+[2026.01.29-11.00.06:714][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.518 ms (total: 2.65 sec)
+[2026.01.29-11.00.06:761][162]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2026.01.29-11.00.06:792][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.29-11.00.06:820][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.29-11.00.06:936][162]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-11.00.06:936][162]LogContentValidation: Enabled validators:
+[2026.01.29-11.00.06:936][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-11.00.06:936][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-11.00.06:936][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-11.00.06:936][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-11.00.06:936][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-11.00.06:936][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-11.00.06:937][162]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy Validating asset
+[2026.01.29-11.00.06:992][162]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-11.01.28:213][814]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.29-11.01.28:229][814]LogInterchangeEngine: [Pending] Importing
+[2026.01.29-11.01.28:229][814]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/game/Downloads/Texture.JPG]
+[2026.01.29-11.01.28:904][816]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.29-11.01.28:906][817]LogInterchangeImport: JPEG file [C:/Users/game/Downloads/Texture.JPG]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2026.01.29-11.01.29:386][818]LogTexture: Display: Building textures: /Game/Textures/Texture.Texture (BGRA8, 1106x660 x1x1x1) (Required Memory Estimate: 26.061188 MB), EncodeSpeed: Fast
+[2026.01.29-11.01.29:564][818]LogInterchangeEngine: Display: Interchange import completed [C:/Users/game/Downloads/Texture.JPG]
+[2026.01.29-11.01.29:610][818]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.01.29-11.01.29:610][818]LogInterchangeEngine: [Success] Import Done
+[2026.01.29-11.01.40:501][695]LogContentBrowser: Attempting asset rename: Texture -> T_CharacterTexture
+[2026.01.29-11.01.40:636][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-11.01.40:636][695]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_CharacterTexture] ([1] browsable assets)...
+[2026.01.29-11.01.40:638][695]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_CharacterTexture.T_CharacterTexture]
+[2026.01.29-11.01.40:638][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_CharacterTexture]
+[2026.01.29-11.01.40:638][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_CharacterTexture" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Textures/T_CharacterTexture.uasset" SILENT=true
+[2026.01.29-11.01.40:643][695]LogSavePackage: Moving output files for package: /Game/Textures/T_CharacterTexture
+[2026.01.29-11.01.40:643][695]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/T_CharacterTexture859E0D144CCBA069BC65CC9587FC8A85.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Textures/T_CharacterTexture.uasset'
+[2026.01.29-11.01.40:650][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.400 ms (total: 2.67 sec)
+[2026.01.29-11.01.40:708][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.29-11.01.40:737][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.29-11.01.40:764][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.29-11.01.40:867][695]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-11.01.40:867][695]LogContentValidation: Enabled validators:
+[2026.01.29-11.01.40:867][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-11.01.40:867][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-11.01.40:867][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-11.01.40:867][695]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-11.01.40:867][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-11.01.40:867][695]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-11.01.40:867][695]AssetCheck: /Game/Textures/T_CharacterTexture Validating asset
+[2026.01.29-11.01.40:908][695]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-11.01.49:271][430]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.01.29-11.01.49:280][430]LogContentBrowser: Creating deferred item: NewFolder
+[2026.01.29-11.01.49:292][431]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.01.29-11.01.52:200][707]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2026.01.29-11.01.52:200][707]LogContentBrowser: End creating deferred item NewFolder
+[2026.01.29-11.01.57:801][244]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.01.29-11.01.57:810][244]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.01.29-11.01.57:864][246]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.01.29-11.02.04:041][859]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Character
+[2026.01.29-11.02.04:044][859]LogContentBrowser: End creating deferred item NewMaterial
+[2026.01.29-11.02.05:704][996]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Character.M_Character
+[2026.01.29-11.02.05:745][996]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.01.29-11.02.05:758][996]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.29-11.02.05:785][996]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.01.29-11.02.05:887][996]LogStaticMesh: Built static mesh [0.11s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.01.29-11.02.06:014][996]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.01.29-11.02.06:015][996]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.01.29-11.02.06:699][996]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.29-11.02.06:699][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.29-11.02.06:699][996]MaterialEditorStats: Shader Count: 0
+[2026.01.29-11.02.06:699][996]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.07:071][998]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.07:071][998]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.29-11.02.07:071][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.29-11.02.07:071][998]MaterialEditorStats: Shader Count: 3
+[2026.01.29-11.02.07:071][998]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.08:386][114]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.29-11.02.08:387][114]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.08:387][114]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.29-11.02.08:387][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.29-11.02.08:387][114]MaterialEditorStats: Shader Count: 4
+[2026.01.29-11.02.08:387][114]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.15:760][806]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.29-11.02.15:760][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.29-11.02.15:760][806]MaterialEditorStats: Shader Count: 0
+[2026.01.29-11.02.15:760][806]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.15:888][808]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.29-11.02.15:888][808]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.15:888][808]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.29-11.02.15:888][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.29-11.02.15:888][808]MaterialEditorStats: Shader Count: 5
+[2026.01.29-11.02.15:888][808]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.17:943][  8]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.29-11.02.17:943][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.17:943][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.17:943][  8]MaterialEditorStats: Shader Count: 0
+[2026.01.29-11.02.17:943][  8]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.18:023][ 10]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.18:023][ 10]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.29-11.02.18:023][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.18:023][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.18:024][ 10]MaterialEditorStats: Shader Count: 2
+[2026.01.29-11.02.18:024][ 10]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.18:546][ 56]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.18:546][ 56]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.29-11.02.18:546][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.18:546][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.18:546][ 56]MaterialEditorStats: Shader Count: 3
+[2026.01.29-11.02.18:546][ 56]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: Shader Count: 4
+[2026.01.29-11.02.18:752][ 77]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.21:200][345]LogMaterialEditor: Applying material M_Character
+[2026.01.29-11.02.21:652][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.29-11.02.23:107][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.01.29-11.02.24:233][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.01.29-11.02.24:238][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-11.02.24:330][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BT_MainBehavior] ([1] browsable assets)...
+[2026.01.29-11.02.24:331][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BT_MainBehavior]
+[2026.01.29-11.02.24:331][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BT_MainBehavior" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BT_MainBehavior.uasset" SILENT=true
+[2026.01.29-11.02.24:336][449]LogSavePackage: Moving output files for package: /Game/AI/BT_MainBehavior
+[2026.01.29-11.02.24:336][449]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BT_MainBehaviorF3D041334258E78321E34399D214FE01.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/AI/BT_MainBehavior.uasset'
+[2026.01.29-11.02.24:337][449]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Character] ([1] browsable assets)...
+[2026.01.29-11.02.24:345][449]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Character.M_Character]
+[2026.01.29-11.02.24:345][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Character]
+[2026.01.29-11.02.24:345][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Character" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Materials/M_Character.uasset" SILENT=true
+[2026.01.29-11.02.24:352][449]LogSavePackage: Moving output files for package: /Game/Materials/M_Character
+[2026.01.29-11.02.24:352][449]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/M_CharacterB30DDF694FFBA417F2AAF1A7A9D83831.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Materials/M_Character.uasset'
+[2026.01.29-11.02.24:366][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.269 ms (total: 2.80 sec)
+[2026.01.29-11.02.24:463][449]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.29-11.02.24:463][449]LogContentValidation: Enabled validators:
+[2026.01.29-11.02.24:463][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-11.02.24:463][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-11.02.24:463][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-11.02.24:463][449]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-11.02.24:463][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-11.02.24:463][449]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-11.02.24:463][449]AssetCheck: /Game/AI/BT_MainBehavior Validating asset
+[2026.01.29-11.02.24:464][449]AssetCheck: /Game/Materials/M_Character Validating asset
+[2026.01.29-11.02.24:487][449]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-11.02.37:081][690]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy
+[2026.01.29-11.02.37:081][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.01.29-11.02.37:916][693]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.01.29-11.02.41:373][ 25]LogPSOHitching: Encountered 850 PSO creation hitches so far (277 graphics, 573 compute). 0 of them were precached.
+[2026.01.29-11.02.47:860][618]LogMaterial: Display: Material /Game/Materials/M_Character.M_Character needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.29-11.02.47:860][618]LogMaterial: Display: Material /Engine/Transient.M_Character needed to have new flag set bUsedWithSkeletalMesh !
+[2026.01.29-11.02.47:946][618]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.29-11.02.47:946][618]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.47:946][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.47:946][618]MaterialEditorStats: Shader Count: 0
+[2026.01.29-11.02.47:946][618]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: Shader Count: 12
+[2026.01.29-11.02.48:092][619]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Texture samplers: 2/16
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Shader Count: 14
+[2026.01.29-11.02.48:940][672]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: ================================================
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Total job queries 565, among them cache hits 85 (15.04%), DDC hits 377 (66.73%), Duplicates 75 (13.27%)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Tracking 405 distinct input hashes that result in 294 distinct outputs (72.59%)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: RAM used: 3,69 MiB of 819,20 MiB budget. Usage: 0.45%
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Shaders Compiled: 28
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Average time worker was idle: 2198.52 s
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.21 s
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 2.86 s
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Job life time (pending + execution): average 1.44 s, max 2.86
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Shader code size: total 264,413 KiB, numShaders 30, average 8,813 KiB, min 2,891 KiB, max 13,288 KiB
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.42 s
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Average processing rate: 2.09 jobs/sec
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Total thread time: 31,042 s
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Total thread preprocess time: 14,395 s
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Percentage time preprocessing: 46.37%
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.231288
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.20 sec, max 2.47 sec, min 1.92 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.59 sec, max 1.89 sec, min 1.14 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.36 sec, max 1.54 sec, min 1.17 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.91% of total time (compiled    7 times, average 0.93 sec, max 1.19 sec, min 0.53 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.45% of total time (compiled    4 times, average 1.59 sec, max 1.89 sec, min 1.14 sec)
+[2026.01.29-11.02.52:284][909]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 14.16% of total time (compiled    2 times, average 2.20 sec, max 2.47 sec, min 1.92 sec)
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.74% of total time (compiled    2 times, average 1.36 sec, max 1.54 sec, min 1.17 sec)
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.84% of total time (compiled    3 times, average 0.60 sec, max 0.79 sec, min 0.43 sec)
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: === Material stats ===
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: Materials Translated:    156
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: Material Translation Only: 0.04 s (21%)
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: Material Cache Hits: 33 (21%)
+[2026.01.29-11.02.52:285][909]LogShaderCompilers: Display: ================================================
+[2026.01.29-11.02.56:415][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.01.29-11.02.58:580][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.29-11.02.58:586][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-11.02.58:679][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacterEnemy] ([2] browsable assets)...
+[2026.01.29-11.02.58:688][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy]
+[2026.01.29-11.02.58:688][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacterEnemy]
+[2026.01.29-11.02.58:695][436]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy
+[2026.01.29-11.02.58:695][436]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/BP_TopDownCharacterEnemy956CDDC047E8C5508E18C687A4DE49BB.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/TopDown/Blueprints/BP_TopDownCharacterEnemy.uasset'
+[2026.01.29-11.02.58:696][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_Character] ([1] browsable assets)...
+[2026.01.29-11.02.58:696][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Character]
+[2026.01.29-11.02.58:696][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Character" FILE="../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Materials/M_Character.uasset" SILENT=true
+[2026.01.29-11.02.58:700][436]LogSavePackage: Moving output files for package: /Game/Materials/M_Character
+[2026.01.29-11.02.58:700][436]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/M_Character2959285D4C9792D958BEABB0331A4D71.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/Materials/M_Character.uasset'
+[2026.01.29-11.02.58:711][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.484 ms (total: 2.92 sec)
+[2026.01.29-11.02.58:807][436]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.29-11.02.58:807][436]LogContentValidation: Enabled validators:
+[2026.01.29-11.02.58:807][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-11.02.58:807][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-11.02.58:807][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-11.02.58:807][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-11.02.58:807][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-11.02.58:807][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-11.02.58:807][436]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy Validating asset
+[2026.01.29-11.02.58:807][436]AssetCheck: /Game/Materials/M_Character Validating asset
+[2026.01.29-11.03.28:975][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy_C
+[2026.01.29-11.03.28:975][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy_C
+[2026.01.29-11.03.28:984][212]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy as actor: BP_TopDownCharacterEnemy_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_TopDownCharacterEnemy_C_0
+[2026.01.29-11.03.28:987][212]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy as actor: BP_TopDownCharacterEnemy_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_TopDownCharacterEnemy_C_0
+[2026.01.29-11.03.28:996][212]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.29-11.03.30:683][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.29-11.03.30:688][353]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.01.29-11.03.30:692][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy_C
+[2026.01.29-11.03.30:693][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy_C
+[2026.01.29-11.03.30:704][353]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy as actor: BP_TopDownCharacterEnemy_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_TopDownCharacterEnemy_C_UAID_C01803C18F4FF3B902_1664032623
+[2026.01.29-11.03.30:707][353]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacterEnemy.BP_TopDownCharacterEnemy as actor: BP_TopDownCharacterEnemy_C /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.BP_TopDownCharacterEnemy_C_UAID_C01803C18F4FF3B902_1664032623
+[2026.01.29-11.03.42:899][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.01.29-11.03.47:002][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.01.29-11.03.47:009][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.29-11.03.47:108][457]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/9/3Z/PUAD6QK0GSRDHSMMU3M4J9
+[2026.01.29-11.03.47:108][457]LogSavePackage: Moving '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/PUAD6QK0GSRDHSMMU3M4J9B2E02CFF45EECECEAE23BCBF7D0A50A6.tmp' to '../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/3Z/PUAD6QK0GSRDHSMMU3M4J9.uasset'
+[2026.01.29-11.03.47:126][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.362 ms (total: 3.04 sec)
+[2026.01.29-11.03.47:226][457]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.29-11.03.47:226][457]LogContentValidation: Enabled validators:
+[2026.01.29-11.03.47:226][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.29-11.03.47:226][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.29-11.03.47:226][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.29-11.03.47:226][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.29-11.03.47:226][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.29-11.03.47:226][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.29-11.03.47:226][457]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2026.01.29-11.03.47:280][457]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/game/Documents/GitHub/TER_JAD_RPG/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.29-11.03.52:992][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.29-11.03.53:054][913]LogStall: Shutdown...
+[2026.01.29-11.03.53:055][913]LogStall: Shutdown complete.
+[2026.01.29-11.03.53:100][913]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.53:103][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.53:295][913]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.53:295][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.54:191][913]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.54:191][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.54:203][913]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.54:203][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.54:699][913]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.29-11.03.54:699][913]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.54:699][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.55:370][913]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.55:370][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.55:683][913]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.55:683][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.56:044][913]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.56:044][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.56:056][913]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.56:056][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.56:186][913]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.29-11.03.56:186][913]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.56:186][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.56:253][913]LogSlate: Window 'TER_JAD_RPG - Unreal Editor' being destroyed
+[2026.01.29-11.03.59:318][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.01.29-11.03.59:343][913]Cmd: QUIT_EDITOR
+[2026.01.29-11.03.59:343][914]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.29-11.03.59:350][914]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.29-11.03.59:351][914]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.29-11.03.59:351][914]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.29-11.03.59:358][914]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:358][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:359][914]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Lvl_TopDown.Lvl_TopDown
+[2026.01.29-11.03.59:393][914]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.29-11.03.59:396][914]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.29-11.03.59:398][914]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.29-11.03.59:474][914]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:474][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:478][914]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:478][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:481][914]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:481][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:484][914]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:484][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:487][914]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:487][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:490][914]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:490][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:493][914]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:493][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:497][914]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:497][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:499][914]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.01.29-11.03.59:499][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.29-11.03.59:504][914]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.29-11.03.59:506][914]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.29-11.03.59:511][914]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.29-11.03.59:514][914]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.29-11.03.59:514][914]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.29-11.03.59:514][914]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2026.01.29-11.03.59:514][914]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.29-11.03.59:515][914]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.29-11.03.59:523][914]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.29-11.03.59:593][914]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.29-11.03.59:593][914]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.29-11.03.59:597][914]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.01.29-11.03.59:602][914]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.29-11.03.59:603][914]LogExit: Preparing to exit.
+[2026.01.29-11.03.59:669][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.01.29-11.03.59:678][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:678][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:680][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:681][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:682][914]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.03.59:682][914]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.29-11.04.00:743][914]LogEditorDataStorage: Deinitializing
+[2026.01.29-11.04.00:879][914]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/game/Documents/GitHub/TER_JAD_RPG/Content/]. Aborting watch request...
+[2026.01.29-11.04.00:989][914]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.29-11.04.01:299][914]LogExit: Editor shut down
+[2026.01.29-11.04.01:327][914]LogExit: Transaction tracking system shut down
+[2026.01.29-11.04.02:133][914]LogExit: Object subsystem successfully closed.
+[2026.01.29-11.04.02:257][914]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.29-11.04.04:497][914]LogMemoryProfiler: Shutdown
+[2026.01.29-11.04.04:497][914]LogNetworkingProfiler: Shutdown
+[2026.01.29-11.04.04:497][914]LoadingProfiler: Shutdown
+[2026.01.29-11.04.04:497][914]LogTimingProfiler: Shutdown
+[2026.01.29-11.04.04:498][914]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.29-11.04.04:498][914]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.29-11.04.05:314][914]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.29-11.04.05:333][914]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.29-11.04.05:333][914]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC5350FE1-446F-9AE1-BC3D-D1A89C632604%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=987457f84d7f20f10d71eba4e2b4801e%7C7de091a22b5e451ba801e10f93cfa599%7C8dfd3b2b-ef3c-4510-ab12-67a5b92aedf4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.29-11.04.05:900][914]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.29-11.04.05:900][914]RenderDocPlugin: plugin has been unloaded.
+[2026.01.29-11.04.05:904][914]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.29-11.04.05:910][914]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.29-11.04.05:910][914]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.29-11.04.05:910][914]LogPakFile: Destroying PakPlatformFile
+[2026.01.29-11.04.06:527][914]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.29-11.04.06:577][914]LogExit: Exiting.
+[2026.01.29-11.04.06:620][914]Log file closed, 01/29/26 12:04:06
